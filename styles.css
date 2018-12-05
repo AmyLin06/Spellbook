@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    background: url("http://i.imgur.com/EhC0un2.jpg");
+    background-size: cover;
+    Font-size: 30px;
+    Color: red;
+    font-family: 'Permanent Marker', cursive;
+}
+
+p{
+    text-decoration: underline;
+}
+.first{
+    background: url("http://getwallpapers.com/wallpaper/full/d/9/3/59380.jpg");
+    width:200px;
+    height: 75px;
+    background-size: cover;
+    border: 5px solid lightblue;
+    font-size: 20px;
+    color: red;
+    font-family: 'Permanent Marker', cursive;
+}
+.second{
+    background: url("https://stmed.net/sites/default/files/physics-and-chemistry-wallpapers-30743-7630781.jpg");
+    width:200px;
+    height: 75px;
+    background-size: cover;
+    border: 5px solid violet;
+    font-size: 20px;
+    color: red;
+    font-family: 'Permanent Marker', cursive;
+}
+.third{
+    background: url("https://us.123rf.com/450wm/artemegorov/artemegorov1611/artemegorov161100031/69654013-stock-illustration-3d-illustration-of-molecule-model-science-background-with-molecules-and-atoms.jpg?ver=6");
+    width:200px;
+    height: 75px;
+    background-size: cover;
+    border: 5px solid gold;
+    font-size: 20px;
+    color: red;
+    font-family: 'Permanent Marker', cursive;
+}
+img{
+    border: 10px solid #072b66;
+    height: 450px;
+    border-radius: 50px;
+}
+
+.one {
+    display: none;
+}
+.two{
+    display: none;
+}
+.three{
+    display: none;
+}
